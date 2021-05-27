@@ -66,9 +66,7 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Your Name >
-
-Connect for Data Science Project Collaboration
+< Your Name > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/almabetter/mycompany/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/AlmaBetter-School/)
