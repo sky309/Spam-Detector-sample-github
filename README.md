@@ -67,7 +67,9 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 
 < Your Name > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
-<i> Contact me Data Science Project Collaborations</i>
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://docs.google.com/document/d/1oqq7SOX-VfSNAwPcCo4rS5dtf5fm57ZNVGBg0nDRIcI/edit?usp=sharing)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/almabetter/mycompany/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/AlmaBetter-School/)
