@@ -2,8 +2,7 @@
   <img src="image/Email Logo.png" alt="Email Logo.png" width="80px" height="80px">
 </p>
 <h1 align="center"> Spam Detector </h1>
-<h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
-<h5 align="center"> Project Assignment 2 - <a href="https://www.concordia.ca/">Concordia University</a> (Winter 2020) </h5>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
 <img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
