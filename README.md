@@ -8,7 +8,7 @@
 <img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
 </p>
 
-<p>I have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
+<p>I have developed a spam or ham detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
 
 <h2> :floppy_disk: Project Files Description</h2>
 
